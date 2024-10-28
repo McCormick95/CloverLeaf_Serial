@@ -16,4 +16,8 @@
  max_timestep=0.04
  end_step=87
  test_problem 2
+
+ # Key parameter for output frequency
+visit_frequency=10   # Adjust this to control how often VTK files are written
+
 *endclover
